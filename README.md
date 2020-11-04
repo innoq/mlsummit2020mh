@@ -5,8 +5,6 @@ Informationen zum Workshop "Einführung in Software Analytics"
 
 ## Notebooks
 
-* [Präsentation (als Slideshow, zum Durchklicken)](https://nbviewer.jupyter.org/format/slides/github/innoq/mlsummit2020mh/blob/master/presentation/Einführung%20in%20Software%20Analytics.ipynb#/)
-* [Präsentation (als Notebook, zum Durchscrollen)](https://nbviewer.jupyter.org/github/innoq/mlsummit2020mh/blob/master/presentation/Einführung%20in%20Software%20Analytics.ipynb#/)
 * [Hands-On Mini-Tutorial, Teil II](https://nbviewer.jupyter.org/github/innoq/mlsummit2020mh/blob/master/tutorial/10%20pandas%20and%20matplotlib%20basics.ipynb)
 * [Analyse zu Community-Aktivitäten bei Versionskontrollsystemen](https://nbviewer.jupyter.org/github/innoq/mlsummit2020mh/blob/master/demos/Analyzing%20the%20community%20activity%20for%20version%20control%20systems.ipynb)
 * [Auswertung von Performance-Messdaten aus dem Linux-Umfeld](https://nbviewer.jupyter.org/github/innoq/mlsummit2020mh/blob/master/demos/Parsing%20and%20Analysing%20vmstat%20Data%20the%20Easy%20Way%20%28Demo%20Notebook%29.ipynb)
@@ -39,4 +37,4 @@ Die Notebooks selbst können auf der Online-Datenanalyseplattform über den "Run
 
 ## Mehr Workshop
 
-* [Software Analytics Workshop (2 Tage)](https://www.feststelltaste.de/software-analytics-workshop/)
+* [Software Analytics Workshop (2 Tage oder 4 halbe Tage)](https://www.innoq.com/de/trainings/software-analytics/)
